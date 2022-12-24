@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main{
+    max-width: 1240;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+}
+.cards{
+    margin-top: 72px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 300px;
+    margin-left: 200px;
+}
+.img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.card{
+  width:  700px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 30px;
+}
+.text{
+    width: 291px;
+}
